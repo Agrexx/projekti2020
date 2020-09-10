@@ -4,7 +4,11 @@ h1
 }
 h1
 {
-    font-size: 35px;
+  font-family: "Brush Script Std";
+}
+h1
+{
+  font-size: 35px;
 }
 h2.thick {
   font-weight: bold;
